@@ -73,3 +73,4 @@ title('Error Signal');
 <img width="696" height="619" alt="Screenshot 2026-03-29 085749" src="https://github.com/user-attachments/assets/19166d2f-3401-450b-ae11-8fc5fa037bdf" />
 
 ## RESULT:
+<img width="1526" height="538" alt="image" src="https://github.com/user-attachments/assets/be2cce19-a60b-4b89-9000-e6ec157675bb" />
